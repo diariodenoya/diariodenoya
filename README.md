@@ -1,4 +1,4 @@
-# 👋 Waren Gonzaga (💻💖☕) [![buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%9D%A4-%237b3fe4.svg?&logo=buymeacoffee&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga)
+# 👋 DiarioDeNoya (💻💖☕) 
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://app.daily.dev/warengonzaga">
