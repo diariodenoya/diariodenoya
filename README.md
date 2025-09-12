@@ -1,10 +1,6 @@
 # 👋 DiarioDeNoya (💻💖☕) 
 
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/warengonzaga">
-    <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
-</a>
-<!-- markdownlint-enable MD033 -->
+
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=435&lines=Self-taught+Software+Engineer;Open-Source+Maintainer;Open-Source+Contributor;Open-Source+Advocate;Cybersecurity+Researcher;Web3+Engineer;AI+Engineer;Technopreneur)
 
