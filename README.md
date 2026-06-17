@@ -2,18 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:FF2D87&height=180&section=header&text=Hola,%20soy%20archiv051%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=22&duration=3000&pause=1000&color=FF2D87&center=true&vCenter=true&width=600&lines=21+a%C3%B1os+%E2%9C%A8;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;Armando+mi+portafolio+art%C3%ADstico+%F0%9F%8E%A8" />
+<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=22&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Revisa+mis+redes+%F0%9F%91%80;Aprendiendo+cosas+nuevas+todos+los+d%C3%ADas;Armando+mi+portafolio+art%C3%ADstico+%F0%9F%8E%A8" />
 
 </div>
 
 ### 🌸 SOBRE MI
 
 - Tengo 21 años y este repo es básicamente mi **cuaderno de experimentos** 🧪
-- Estoy armando poco a poco mi **portafolio artístico**
+- Estoy armando poco a poco mi **portafolio creativo**
 - No todo aquí es "profesional", es más para ir mostrando lo que voy aprendiendo
 - Me gusta el código tanto como el arte, así que aquí se mezclan los dos mundos 🎨💻
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5nMWd6ZThsc29lNDcxZjhscXRyazQwcnlpb2w2aXFucTY1b2VyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QGoxu7KIgMPvKFP3ze/giphy.gif" width="32%" />
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tnZWpuc2ZjaDg2bmMxeDl2bXFrM2I1ZWg1djRjenZmdWhiZ3BocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8vqF2nBJc24Merhx2R/giphy.gif" width="32%" />
 
 <br/>
 
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-
+<img src="https://placehold.co/280x180/0A0A0A/FF0033?text=TU+GIF+3" width="32%" />
 <img src="https://placehold.co/280x180/0A0A0A/FF0033?text=TU+GIF+2" width="32%" />
 <img src="https://placehold.co/280x180/0A0A0A/FF0033?text=TU+GIF+3" width="32%" />
 
