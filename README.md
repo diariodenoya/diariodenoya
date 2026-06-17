@@ -17,13 +17,19 @@
 
 ### 🎧 LO QUE ESTOY ESCUCHANDO AHORA
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="middle">
 
-<!-- 🎴 Este widget necesita tu propio link de Spotify, lee las instrucciones que te dejo abajo del README -->
-<img src="[https://novatorem-tu-usuario.vercel.app/api/spotify](https://open.spotify.com/user/ayo07v302ghv71qpcoaoexxsa?si=en-JpYsqRFSo2pIJoM5CiA)" width="500" alt="spotify now playing" />
-
-</div>
-
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ayo07v302ghv71qpcoaoexxsa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=eca7ea)](https://spotify-github-profile.kittinanx.com/api/view?uid=ayo07v302ghv71qpcoaoexxsa&redirect=true)
+ 
+</td>
+<td valign="middle">
+<!-- 🎴 Reemplaza esta URL con tu GIF favorito (Giphy, Tenor, o uno que subas a tu repo) -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0djZpcXRvczl4dWx2M21idjRoMnRhenNqeHFtMzY4MGZkdDlociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WdwDenM0Tef8qgaUAt/giphy.gif" width="180" />
+</td>
+</tr>
+</table>
 <br/>
 
 ### 🌱 LENGUAJES / COSAS QUE ESTOY APRENDIENDO
@@ -42,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=archiv051&show_icons=true&theme=radical&hide_border=true&hide_title=true" width="48%" />
 
 </div>
 
