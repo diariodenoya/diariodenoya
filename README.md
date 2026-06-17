@@ -101,7 +101,7 @@ Wanna have chat with me? Join my tech communities!
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+💻💖☕
 
 <!-- 
 [personal website]: https://warengonzaga.com
