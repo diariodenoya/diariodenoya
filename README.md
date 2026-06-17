@@ -88,14 +88,14 @@
 
 <br/>
 
-## 🗝️ CONFIDENTES (redes)
+## 🗝️ REDES
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0033" /></a>
-<a href="https://twitter.com/TU-USUARIO"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=FF0033" /></a>
-<a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0033" /></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FF0033" /></a>
+<a href="https://www.instagram.com/archiv051/"><img src="https://img.shields.io/badge/neocities-000000?style=for-the-badge&logo=instagram&logoColor=FF0033" /></a>
+<a href="https://archiv051.neocities.org/"><img src="https://img.shields.io/badge/neocities-000000?style=for-the-badge&logo=neocities&logoColor=FF0033" /></a>
+<a href="https://www.instagram.com/cyumi4u/"><img src="https://img.shields.io/badge/dibujos-000000?style=for-the-badge&logo=dibujos&logoColor=FF0033" /></a>
+<a href="https://www.instagram.com/archiv051/"><img src="https://img.shields.io/badge/review-000000?style=for-the-badge&logo=review&logoColor=FF0033" /></a>
 
 </div>
 
